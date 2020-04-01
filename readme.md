@@ -5,7 +5,12 @@ How India , japan and Singapore are doing better than others.
  New countries to watch out for Norway , Brazil, Switzerland , netherland
 
  How India , japan and Singapore are doing better than others.
+ 
 https://public.tableau.com/profile/ratnesh2187#!/vizhome/Covid-19_15853774170830/Dashboard2
+
+https://public.tableau.com/profile/ratnesh2187#!/vizhome/Covid-19_15853774170830/Dashboard1
+
+https://public.tableau.com/profile/ratnesh2187#!/vizhome/Covid-19_15853774170830/CountriesPerformanceperdensity
 
 https://analyticsratnesh.blogspot.com/2020/03/which-country-is-doing-best-for.html
 
