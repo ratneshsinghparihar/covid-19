@@ -1,3 +1,5 @@
+1.Data analytics (from john hopkins data)
+
 How India , japan and Singapore are doing better than others.
  US ,Canada and Australia actually doing worse than Italy and Spain. 
  New countries to watch out for Norway , Brazil, Switzerland , netherland
@@ -14,3 +16,6 @@ Worst countries are the one with left top corner with Large circle size.
 japan and Singapore are doing better than others.
  US ,Canada and Australia actually doing worse than Italy and Spain. 
  New countries to watch out for Norway , Brazil, Switzerland , netherland
+ 
+2) Deep learning models using chest xrays
+   (collected data and initial model)
