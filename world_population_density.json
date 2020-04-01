@@ -1,0 +1,798 @@
+{
+   "Aruba": {
+      "population_density": 588.0277778
+   },
+   "Afghanistan": {
+      "population_density": 56.93776001
+   },
+   "Angola": {
+      "population_density": 24.71305206
+   },
+   "Albania": {
+      "population_density": 104.6122628
+   },
+   "Andorra": {
+      "population_density": 163.8425532
+   },
+   "Arab World": {
+      "population_density": 37.37236537
+   },
+   "United Arab Emirates": {
+      "population_density": 135.6091101
+   },
+   "Argentina": {
+      "population_density": 16.2585101
+   },
+   "Armenia": {
+      "population_density": 103.6802248
+   },
+   "American Samoa": {
+      "population_density": 277.325
+   },
+   "Antigua and Barbuda": {
+      "population_density": 218.8318182
+   },
+   "Australia": {
+      "population_density": 3.249129487
+   },
+   "Austria": {
+      "population_density": 107.2069267
+   },
+   "Azerbaijan": {
+      "population_density": 120.2653199
+   },
+   "Burundi": {
+      "population_density": 435.178271
+   },
+   "Belgium": {
+      "population_density": 377.2149273
+   },
+   "Benin": {
+      "population_density": 101.8539198
+   },
+   "Burkina Faso": {
+      "population_density": 72.19128289
+   },
+   "Bangladesh": {
+      "population_density": 1239.579312
+   },
+   "Bulgaria": {
+      "population_density": 64.70353721
+   },
+   "Bahrain": {
+      "population_density": 2017.2737
+   },
+   "Bahamas, The": {
+      "population_density": 38.52547453
+   },
+   "Bosnia and Herzegovina": {
+      "population_density": 64.92048828
+   },
+   "Belarus": {
+      "population_density": 46.7287999
+   },
+   "Belize": {
+      "population_density": 16.79399386
+   },
+   "Bermuda": {
+      "population_density": 1184.592572
+   },
+   "Bolivia": {
+      "population_density": 10.48014585
+   },
+   "Brazil": {
+      "population_density": 25.06171624
+   },
+   "Barbados": {
+      "population_density": 666.6069767
+   },
+   "Brunei Darussalam": {
+      "population_density": 81.39696395
+   },
+   "Bhutan": {
+      "population_density": 19.77752777
+   },
+   "Botswana": {
+      "population_density": 3.977424876
+   },
+   "Central African Republic": {
+      "population_density": 7.490412212
+   },
+   "Canada": {
+      "population_density": 4.075308214
+   },
+   "Central Europe and the Baltics": {
+      "population_density": 92.76643663
+   },
+   "Switzerland": {
+      "population_density": 215.5213784
+   },
+   "Channel Islands": {
+      "population_density": 861.1060938
+   },
+   "Chile": {
+      "population_density": 25.18944607
+   },
+   "China": {
+      "population_density": 148.3488333
+   },
+   "Cote d'Ivoire": {
+      "population_density": 78.83405346
+   },
+   "Cameroon": {
+      "population_density": 53.34398891
+   },
+   "Congo, Dem. Rep.": {
+      "population_density": 37.08259236
+   },
+   "Congo, Rep.": {
+      "population_density": 15.35684627
+   },
+   "Colombia": {
+      "population_density": 44.74870212
+   },
+   "Comoros": {
+      "population_density": 447.2444775
+   },
+   "Cabo Verde": {
+      "population_density": 134.9297767
+   },
+   "Costa Rica": {
+      "population_density": 97.91306306
+   },
+   "Caribbean small states": {
+      "population_density": 18.17701618
+   },
+   "Cuba": {
+      "population_density": 108.9995962
+   },
+   "Curacao": {
+      "population_density": null
+   },
+   "Cayman Islands": {
+      "population_density": 267.3916667
+   },
+   "Cyprus": {
+      "population_density": 128.7083333
+   },
+   "Czech Republic": {
+      "population_density": 137.6028879
+   },
+   "Germany": {
+      "population_density": 237.3709698
+   },
+   "Djibouti": {
+      "population_density": 41.36842105
+   },
+   "Dominica": {
+      "population_density": 95.5
+   },
+   "Denmark": {
+      "population_density": 138.0673017
+   },
+   "Dominican Republic": {
+      "population_density": 219.9785759
+   },
+   "Algeria": {
+      "population_density": 17.73007507
+   },
+   "East Asia & Pacific (excluding high income)": {
+      "population_density": 130.8104315
+   },
+   "Early-demographic dividend": {
+      "population_density": 98.13836364
+   },
+   "East Asia & Pacific": {
+      "population_density": 95.43160553
+   },
+   "Europe & Central Asia (excluding high income)": {
+      "population_density": 18.47737541
+   },
+   "Europe & Central Asia": {
+      "population_density": 33.4968853
+   },
+   "Ecuador": {
+      "population_density": 68.78868175
+   },
+   "Egypt, Arab Rep.": {
+      "population_density": 98.87346929
+   },
+   "Euro area": {
+      "population_density": 127.5822777
+   },
+   "Eritrea": {
+      "population_density": null
+   },
+   "Spain": {
+      "population_density": 93.52905826
+   },
+   "Estonia": {
+      "population_density": 30.38610536
+   },
+   "Ethiopia": {
+      "population_density": 109.224559
+   },
+   "European Union": {
+      "population_density": 121.0781941
+   },
+   "Fragile and conflict affected situations": {
+      "population_density": 39.86931254
+   },
+   "Finland": {
+      "population_density": 18.15685565
+   },
+   "Fiji": {
+      "population_density": 48.35703339
+   },
+   "France": {
+      "population_density": 122.3383957
+   },
+   "Faroe Islands": {
+      "population_density": 34.73996983
+   },
+   "Micronesia, Fed. Sts.": {
+      "population_density": 160.9142857
+   },
+   "Gabon": {
+      "population_density": 8.224764233
+   },
+   "United Kingdom": {
+      "population_density": 274.8273922
+   },
+   "Georgia": {
+      "population_density": 65.27520207
+   },
+   "Ghana": {
+      "population_density": 130.8214292
+   },
+   "Gibraltar": {
+      "population_density": 3371.8
+   },
+   "Guinea": {
+      "population_density": 50.52221227
+   },
+   "Gambia, The": {
+      "population_density": 225.3065217
+   },
+   "Guinea-Bissau": {
+      "population_density": 66.65394737
+   },
+   "Equatorial Guinea": {
+      "population_density": 46.66573975
+   },
+   "Greece": {
+      "population_density": 83.22473235
+   },
+   "Grenada": {
+      "population_density": 327.8058824
+   },
+   "Greenland": {
+      "population_density": 0.136496528
+   },
+   "Guatemala": {
+      "population_density": 160.9537794
+   },
+   "Guam": {
+      "population_density": 306.9777778
+   },
+   "Guyana": {
+      "population_density": 3.957348235
+   },
+   "High income": {
+      "population_density": 34.43776584
+   },
+   "Hong Kong SAR, China": {
+      "population_density": 7096.190476
+   },
+   "Honduras": {
+      "population_density": 85.68703191
+   },
+   "Heavily indebted poor countries (HIPC)": {
+      "population_density": 44.89578165
+   },
+   "Croatia": {
+      "population_density": 73.077198
+   },
+   "Haiti": {
+      "population_density": 403.5985486
+   },
+   "Hungary": {
+      "population_density": 107.9066055
+   },
+   "IBRD only": {
+      "population_density": 68.7859052
+   },
+   "IDA & IBRD total": {
+      "population_density": 68.70845188
+   },
+   "IDA total": {
+      "population_density": 68.48408972
+   },
+   "IDA blend": {
+      "population_density": 93.32562183
+   },
+   "Indonesia": {
+      "population_density": 147.7521901
+   },
+   "IDA only": {
+      "population_density": 60.26218738
+   },
+   "Isle of Man": {
+      "population_density": 147.5035088
+   },
+   "India": {
+      "population_density": 454.9380726
+   },
+   "Not classified": {
+      "population_density": null
+   },
+   "Ireland": {
+      "population_density": 70.45298302
+   },
+   "Iran, Islamic Rep.": {
+      "population_density": 50.22242012
+   },
+   "Iraq": {
+      "population_density": 88.53057004
+   },
+   "Iceland": {
+      "population_density": 3.526922693
+   },
+   "Israel": {
+      "population_density": 410.5268022
+   },
+   "Italy": {
+      "population_density": 205.4507479
+   },
+   "Jamaica": {
+      "population_density": 270.9930748
+   },
+   "Jordan": {
+      "population_density": 112.1424983
+   },
+   "Japan": {
+      "population_density": 347.0734584
+   },
+   "Kazakhstan": {
+      "population_density": 6.769825907
+   },
+   "Kenya": {
+      "population_density": 90.29941666
+   },
+   "Kyrgyz Republic": {
+      "population_density": 32.92909281
+   },
+   "Cambodia": {
+      "population_density": 92.05641287
+   },
+   "Kiribati": {
+      "population_density": 143.0209877
+   },
+   "St. Kitts and Nevis": {
+      "population_density": 201.6961538
+   },
+   "Korea, Rep.": {
+      "population_density": 529.6521036
+   },
+   "Kuwait": {
+      "population_density": 232.1722222
+   },
+   "Latin America & Caribbean (excluding high income)": {
+      "population_density": 32.02146146
+   },
+   "Lao PDR": {
+      "population_density": 30.59578423
+   }
+   ,
+   "Taiwan": {
+      "population_density": 649
+   },
+   "Lebanon": {
+      "population_density": 669.4941349
+   },
+   "Liberia": {
+      "population_density": 50.03090739
+   },
+   "Libya": {
+      "population_density": 3.795632381
+   },
+   "St. Lucia": {
+      "population_density": 298.1786885
+   },
+   "Latin America & Caribbean": {
+      "population_density": 32.00573337
+   },
+   "Least developed countries: UN classification": {
+      "population_density": 56.8413289
+   },
+   "Low income": {
+      "population_density": 51.67373831
+   },
+   "Liechtenstein": {
+      "population_density": 236.9375
+   },
+   "Sri Lanka": {
+      "population_density": 345.558922
+   },
+   "Lower middle income": {
+      "population_density": 150.0815182
+   },
+   "Low & middle income": {
+      "population_density": 69.24159606
+   },
+   "Lesotho": {
+      "population_density": 69.43781291
+   },
+   "Late-demographic dividend": {
+      "population_density": 51.40872056
+   },
+   "Lithuania": {
+      "population_density": 44.53135138
+   },
+   "Luxembourg": {
+      "population_density": 250.0938272
+   },
+   "Latvia": {
+      "population_density": 30.98330653
+   },
+   "Macao SAR, China": {
+      "population_density": 20777.50026
+   },
+   "St. Martin (French part)": {
+      "population_density": null
+   },
+   "Morocco": {
+      "population_density": 80.72851893
+   },
+   "Monaco": {
+      "population_density": null
+   },
+   "Moldova": {
+      "population_density": 123.5198035
+   },
+   "Madagascar": {
+      "population_density": 45.13985562
+   },
+   "Maldives": {
+      "population_density": 1718.986667
+   },
+   "Middle East & North Africa": {
+      "population_density": 39.99770291
+   },
+   "Mexico": {
+      "population_density": 64.91462641
+   },
+   "Marshall Islands": {
+      "population_density": 324.5166667
+   },
+   "Middle income": {
+      "population_density": 72.29486998
+   },
+   "North Macedonia": {
+      "population_density": 82.59151467
+   },
+   "Mali": {
+      "population_density": 15.63501586
+   },
+   "Malta": {
+      "population_density": 1511.03125
+   },
+   "Myanmar": {
+      "population_density": 82.23861548
+   },
+   "Middle East & North Africa (excluding high income)": {
+      "population_density": 44.31116946
+   },
+   "Montenegro": {
+      "population_density": 46.27100372
+   },
+   "Mongolia": {
+      "population_density": 2.040608667
+   },
+   "Northern Mariana Islands": {
+      "population_density": 123.6565217
+   },
+   "Mozambique": {
+      "population_density": 37.50853531
+   },
+   "Mauritania": {
+      "population_density": 4.272163578
+   },
+   "Mauritius": {
+      "population_density": 623.3019704
+   },
+   "Malawi": {
+      "population_density": 192.4407616
+   },
+   "Malaysia": {
+      "population_density": 95.96282149
+   },
+   "North America": {
+      "population_density": 19.97097624
+   },
+   "Namibia": {
+      "population_density": 2.973745582
+   },
+   "New Caledonia": {
+      "population_density": 15.53938731
+   },
+   "Niger": {
+      "population_density": 17.71765059
+   },
+   "Nigeria": {
+      "population_density": 215.064989
+   },
+   "Nicaragua": {
+      "population_density": 53.72704836
+   },
+   "Netherlands": {
+      "population_density": 511.4579104
+   },
+   "Norway": {
+      "population_density": 14.55491954
+   },
+   "Nepal": {
+      "population_density": 195.9391071
+   },
+   "Nauru": {
+      "population_density": 635.2
+   },
+   "New Zealand": {
+      "population_density": 18.55417569
+   },
+   "OECD members": {
+      "population_density": 37.80923456
+   },
+   "Oman": {
+      "population_density": 15.6041454
+   },
+   "Other small states": {
+      "population_density": 15.13861641
+   },
+   "Pakistan": {
+      "population_density": 275.2893187
+   },
+   "Panama": {
+      "population_density": 56.18607748
+   },
+   "Peru": {
+      "population_density": 24.99160625
+   },
+   "Philippines": {
+      "population_density": 357.6883053
+   },
+   "Palau": {
+      "population_density": 38.92826087
+   },
+   "Papua New Guinea": {
+      "population_density": 19.00436338
+   },
+   "Poland": {
+      "population_density": 124.0358862
+   },
+   "Pre-demographic dividend": {
+      "population_density": 51.68744002
+   },
+   "Puerto Rico": {
+      "population_density": 360.2201804
+   },
+   "Korea, Dem. People’s Rep.": {
+      "population_density": 212.1901752
+   },
+   "Portugal": {
+      "population_density": 112.2394535
+   },
+   "Paraguay": {
+      "population_density": 17.50835892
+   },
+   "West Bank and Gaza": {
+      "population_density": 758.9845515
+   },
+   "Pacific island small states": {
+      "population_density": 38.27674455
+   },
+   "Post-demographic dividend": {
+      "population_density": 35.26748894
+   },
+   "French Polynesia": {
+      "population_density": 75.86857923
+   },
+   "Qatar": {
+      "population_density": 239.5931955
+   },
+   "Romania": {
+      "population_density": 84.63984701
+   },
+   "Russian Federation": {
+      "population_density": 8.822079555
+   },
+   "Rwanda": {
+      "population_density": 498.6598703
+   },
+   "South Asia": {
+      "population_density": 380.2471337
+   },
+   "Saudi Arabia": {
+      "population_density": 15.67665431
+   },
+   "Sudan": {
+      "population_density": null
+   },
+   "Senegal": {
+      "population_density": 82.34747832
+   },
+   "Singapore": {
+      "population_density": 7952.998418
+   },
+   "Solomon Islands": {
+      "population_density": 23.32468739
+   },
+   "Sierra Leone": {
+      "population_density": 105.987171
+   },
+   "El Salvador": {
+      "population_density": 309.8814672
+   },
+   "San Marino": {
+      "population_density": 563.0833333
+   },
+   "Somalia": {
+      "population_density": 23.9234769
+   },
+   "Serbia": {
+      "population_density": 79.83174022
+   },
+   "Sub-Saharan Africa (excluding high income)": {
+      "population_density": 50.75862834
+   },
+   "South Sudan": {
+      "population_density": null
+   },
+   "Sub-Saharan Africa": {
+      "population_density": 50.76208431
+   },
+   "Small states": {
+      "population_density": 16.22446282
+   },
+   "Sao Tome and Principe": {
+      "population_density": 219.8208333
+   },
+   "Suriname": {
+      "population_density": 3.69225
+   },
+   "Slovak Republic": {
+      "population_density": 113.2905782
+   },
+   "Slovenia": {
+      "population_density": 102.6398595
+   },
+   "Sweden": {
+      "population_density": 25.00104343
+   },
+   "Eswatini": {
+      "population_density": 66.05761628
+   },
+   "Sint Maarten (Dutch part)": {
+      "population_density": null
+   },
+   "Seychelles": {
+      "population_density": 210.3521739
+   },
+   "Syrian Arab Republic": {
+      "population_density": 92.06710777
+   },
+   "Turks and Caicos Islands": {
+      "population_density": 39.64736842
+   },
+   "Chad": {
+      "population_density": 12.29173364
+   },
+   "East Asia & Pacific (IDA & IBRD countries)": {
+      "population_density": 130.185453
+   },
+   "Europe & Central Asia (IDA & IBRD countries)": {
+      "population_density": 20.01725666
+   },
+   "Togo": {
+      "population_density": 145.0467733
+   },
+   "Thailand": {
+      "population_density": 135.8972068
+   },
+   "Tajikistan": {
+      "population_density": 65.57271417
+   },
+   "Turkmenistan": {
+      "population_density": 12.45059477
+   },
+   "Latin America & the Caribbean (IDA & IBRD countries)": {
+      "population_density": 31.41414444
+   },
+   "Timor-Leste": {
+      "population_density": 85.27047747
+   },
+   "Middle East & North Africa (IDA & IBRD countries)": {
+      "population_density": 43.81292975
+   },
+   "Tonga": {
+      "population_density": 143.3291667
+   },
+   "South Asia (IDA & IBRD)": {
+      "population_density": 380.2471337
+   },
+   "Sub-Saharan Africa (IDA & IBRD countries)": {
+      "population_density": 50.76208431
+   },
+   "Trinidad and Tobago": {
+      "population_density": 270.9274854
+   },
+   "Tunisia": {
+      "population_density": 74.44132338
+   },
+   "Turkey": {
+      "population_density": 106.9601289
+   },
+   "Tuvalu": {
+      "population_density": 383.6
+   },
+   "Tanzania": {
+      "population_density": 63.5790788
+   },
+   "Uganda": {
+      "population_density": 213.0617345
+   },
+   "Ukraine": {
+      "population_density": 77.02966735
+   },
+   "Upper middle income": {
+      "population_density": 45.46917663
+   },
+   "Uruguay": {
+      "population_density": 19.70802765
+   },
+   "US": {
+      "population_density": 35.76608858
+   },
+   "Uzbekistan": {
+      "population_density": 77.46920545
+   },
+   "St. Vincent and the Grenadines": {
+      "population_density": 282.5897436
+   },
+   "Venezuela, RB": {
+      "population_density": 32.73079191
+   },
+   "British Virgin Islands": {
+      "population_density": 198.68
+   },
+   "Virgin Islands (U.S.)": {
+      "population_density": 305.6485714
+   },
+   "Vietnam": {
+      "population_density": 308.1252459
+   },
+   "Vanuatu": {
+      "population_density": 24.00984413
+   },
+   "World": {
+      "population_density": 59.63623626
+   },
+   "Samoa": {
+      "population_density": 69.30388693
+   },
+   "Kosovo": {
+      "population_density": null
+   },
+   "Yemen, Rep.": {
+      "population_density": 53.97785291
+   },
+   "South Africa": {
+      "population_density": 47.63011978
+   },
+   "Zambia": {
+      "population_density": 23.3414789
+   },
+   "Zimbabwe": {
+      "population_density": 37.32459093
+   }
+}
