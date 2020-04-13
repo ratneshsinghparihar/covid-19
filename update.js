@@ -1,5 +1,20 @@
 const fs =require('fs');
 
+const https = require('https')
+const options = {
+  hostname: 'https://pomber.github.io',
+  port: 443,
+  path: '/covid19/timeseries.json',
+  method: 'GET'
+}
+//https://pomber.github.io/covid19/timeseries.json
+
+
+
+
+
+const proces=()=>{
+	
 let data=JSON.parse(fs.readFileSync("timeseries.json"));
 let popdata=JSON.parse(fs.readFileSync("world_population_density.json"));
 let datatowrite=[];
@@ -43,3 +58,24 @@ for(let country in data){
     })
 }
 fs.writeFileSync("updated.json",JSON.stringify(datatowrite));
+}
+
+
+
+https.get('https://pomber.github.io/covid19/timeseries.json', (resp) => {
+  let data = '';
+
+  // A chunk of data has been recieved.
+  resp.on('data', (chunk) => {
+    data += chunk;
+  });
+
+  // The whole response has been received. Print out the result.
+  resp.on('end', () => {
+    fs.writeFileSync("timeseries.json",data)
+	proces();
+  });
+
+}).on("error", (err) => {
+  console.log("Error: " + err.message);
+});
